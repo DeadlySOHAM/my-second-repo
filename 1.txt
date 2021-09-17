@@ -1,2 +1,0 @@
-Doing this on my own
-PLaying with git log
